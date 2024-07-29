@@ -15,6 +15,6 @@ public class ReverseLinkedList {
 
         list.reverse();
 
-        System.out.println(list);
+        System.out.println("reversed linked list : " + list);
     }
 }
